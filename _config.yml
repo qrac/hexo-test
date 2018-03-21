@@ -77,6 +77,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: https://github.com/qrac/hexo-test.git
-  branch: gh-pages
+  type:
+  repo:
+  branch:
